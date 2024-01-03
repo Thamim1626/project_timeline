@@ -40,7 +40,6 @@ const lst = [
 class TimelineView extends Component {
   render() {
     const {timelineItemsList} = this.props
-    console.log(timelineItemsList)
     return (
       <div className="main-timeline">
         <Chrono mode="VERTICAL" flipLayout>

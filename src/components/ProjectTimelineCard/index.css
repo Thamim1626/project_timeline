@@ -1,0 +1,46 @@
+.course-card {
+  width: 100%;
+  max-width: 400px;
+  padding: 8px;
+  background-color: aliceblue;
+}
+
+.course-image {
+  width: 100%;
+}
+
+.course-heading {
+  font-weight: bold;
+  color: #171f46;
+  font-size: 24px;
+}
+
+.heading-duration {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.project-card-header-duration-card {
+  display: flex;
+  align-items: center;
+}
+.project-card-header-duration-icon {
+  width: 20px;
+  margin-right: 2px;
+}
+
+.project-card-header-duration {
+  font-weight: bold;
+  color: #171f46;
+}
+.des {
+  margin-top: 12px;
+}
+
+.link-style {
+  color: #0967d2;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 12px;
+}
